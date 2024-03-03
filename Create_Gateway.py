@@ -1,9 +1,9 @@
 import boto3
 
 # Replace 'your_access_key_id' and 'your_secret_access_key' with your actual AWS credentials
-aws_access_key_id = 'AKIAZI2LHIMVDVXJOGPX'
-aws_secret_access_key = 'DO9p5C2MQTiemIRumMjF2pNFoY50oGkxn0TPPhUQ'
-aws_region = 'us-east-1'
+aws_access_key_id = 'Your_Access_key'
+aws_secret_access_key = 'Your_secret'
+aws_region = 'Region'
 
 # Replace with your API details
 api_name = 'new_http'
