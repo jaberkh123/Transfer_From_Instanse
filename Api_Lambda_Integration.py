@@ -1,9 +1,9 @@
 import boto3
 
 # Specify your AWS credentials and region
-aws_access_key_id = 'AKIAZI2LHIMVDVXJOGPX'
-aws_secret_access_key = 'DO9p5C2MQTiemIRumMjF2pNFoY50oGkxn0TPPhUQ'
-region_name = 'us-east-1'
+aws_access_key_id = ''
+aws_secret_access_key = ''
+region_name = ''
 
 # Create an API Gateway client
 apigateway_client = boto3.client('apigateway', aws_access_key_id=aws_access_key_id, aws_secret_access_key=aws_secret_access_key, region_name=region_name)
